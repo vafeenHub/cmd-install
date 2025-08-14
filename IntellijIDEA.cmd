@@ -1,5 +1,3 @@
-winget install JetBrains.IntelliJIDEA.Community --location "C:\MyPrograms\IntelliJ IDEA"
-   
    @echo off
 
     :: change the path below to match your installed version

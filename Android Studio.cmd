@@ -1,5 +1,3 @@
-winget install -e --id Google.AndroidStudio
-
         @echo off
 
     :: change the path below to match your installed version
