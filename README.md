@@ -1,1 +1,1 @@
-# Набор cmd-файлов для добавления в контекстное меню проводника такие программы, как Git, CMD, Intellij IDEA, Android Studio, VSCode
+# Scripts .cmd for installing window programs, adding some apps such as Git, CMD, Intellij IDEA, Android Studio, VSCode to context file manager menu 
